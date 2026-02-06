@@ -1,0 +1,6 @@
+django==4.2
+scikit-learn
+numpy
+pandas
+transformers
+torch
